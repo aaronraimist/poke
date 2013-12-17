@@ -1,4 +1,4 @@
-' Nolan Swindell and Henri Friedeck
+' Nolan Swindell, Henri Friedeck and also Linus Torvalds
 ' Program Final
 ' This a text based RPG based on the Pokemon series
 
